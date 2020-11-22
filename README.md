@@ -90,7 +90,34 @@ You can find the processed data for all of our experiments [here](https://drive.
 | Summary-Level Combination  | 45.04   | 21.61   | 41.72   |
 | Sentence-Level Combination | 44.93   | 21.48   | 41.42   |
 
+#### System-Combination (BART, pre-trained Refactor and GSum)
+|                            | ROUGE-1 | ROUGE-2 | ROUGE-L |
+|----------------------------|---------|---------|---------|
+| BART                       | 44.26   | 21.12   | 41.16   |
+| pre-trained Refactor       | 44.13   | 20.51   | 40.29   |
+| GSum                       | 45.93   | 22.30   | 42.68   |
+| Summary-Level Combination  | 46.12   | 22.46   | 42.92   |
 
+### XSum
+#### Reranking PEGASUS
+|          | ROUGE-1 | ROUGE-2 | ROUGE-L |
+|----------|---------|---------|---------|
+| PEGASUS  | 47.12   | 24.46   | 39.04   |
+| Refactor | 47.45   | 24.55   | 39.41   |
+
+### PubMed
+#### Reranking BART
+|          | ROUGE-1 | ROUGE-2 | ROUGE-L |
+|----------|---------|---------|---------|
+| BART     | 43.42   | 15.32   | 39.21   |
+| Refactor | 43.72   | 15.41   | 39.51   |
+
+### WikiHow
+#### Reranking BART
+|          | ROUGE-1 | ROUGE-2 | ROUGE-L |
+|----------|---------|---------|---------|
+| BART     | 41.98   | 18.09   | 40.53   |
+| Refactor | 42.12   | 18.13   | 40.66   |
 
 
 
