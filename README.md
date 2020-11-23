@@ -66,6 +66,70 @@ We use four datasets for our experiments.
 
 You can find the processed data for all of our experiments [here](https://drive.google.com/drive/folders/1QvlxYVyEN1tGzzzNrfAcNIui56qdhezL?usp=sharing). After downloading, you should put the data in `./data` directory.
 
+<table>
+<thead>
+  <tr>
+    <th>Dataset</th>
+    <th>Experiment</th>
+    <th>Link</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="6">CNNDM</td>
+    <td>Pre-train</td>
+    <td><a href="https://drive.google.com/file/d/1kcwR0PswyBXWGrNJBcg7Et65keSSsXoc/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</a></td>
+  </tr>
+  <tr>
+    <td>BART Reranking</td>
+    <td><a href="https://drive.google.com/file/d/1GfwqDpFBPV3jOaCUtGRt8FRlUak9YzyV/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</a></td>
+  </tr>
+  <tr>
+    <td>GSum Reranking</td>
+    <td><a href="https://drive.google.com/file/d/1hue7r7tU-9o1pnNuHC6wDV4bCFpwtK95/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</a></td>
+  </tr>
+  <tr>
+    <td>Two-system Combination (System-level)</td>
+    <td><a href="https://drive.google.com/file/d/1WIf9WvKX90fHxVCR5ywb0Kd5mZJgu9cz/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</a></td>
+  </tr>
+  <tr>
+    <td>Two-system Combination (Sentence-level)</td>
+    <td><a href="https://drive.google.com/file/d/1z0EFkOtTXriarv7tR3KY3D_Sssx4yHEQ/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</a></td>
+  </tr>
+  <tr>
+    <td>Three-system Combination (System-level)</td>
+    <td><a href="https://drive.google.com/file/d/1sklrdsA_UxNAYeK1helUJ_ZdhdcltRZz/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">XSum</td>
+    <td>Pre-train</td>
+    <td><a href="https://drive.google.com/file/d/1fSPJDmkBakYcfOhAF_UlLCbThR6h1O74/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</a></td>
+  </tr>
+  <tr>
+    <td>PEGASUS Reranking</td>
+    <td><a href="https://drive.google.com/file/d/1ZqdooQ4YwwRg4qab3lEUu-Wr7NV11gKe/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">PubMed</td>
+    <td>Pre-train</td>
+    <td><a href="https://drive.google.com/file/d/1l_LmeNPRTv_L9GPctFYNZVp5gp0t7DDG/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</a></td>
+  </tr>
+  <tr>
+    <td>BART Reranking</td>
+    <td><a href="https://drive.google.com/file/d/1lW3VefPnPs664qy5o4Qub9IpIH2YfWHt/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">WikiHow</td>
+    <td>Pre-train</td>
+    <td><a href="https://drive.google.com/file/d/1p2Us8qvKqwgQcE6ZIUR5-umMtBxGJ2ef/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</a></td>
+  </tr>
+  <tr>
+    <td>BART Reranking</td>
+    <td><a href="https://drive.google.com/file/d/1HELUaZm4FpOXZ1hF5n4nqtsDyNHUygZL/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</a></td>
+  </tr>
+</tbody>
+</table>
+
 ## 5. Results
 
 
