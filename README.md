@@ -2,7 +2,7 @@
 Code for our paper:
 "RefSum: Refactoring Neural Summarization"
 
-<img src="https://github.com/annonnlp/Refactoring-Summarization/blob/main/intro-gap.png" width="800">
+<img src="https://github.com/annonnlp/Refactoring-Summarization/blob/main/intro-gap.png" width="500">
 
 We present a model, Refactor, which can be used either as a base system or a meta system for text summarization.
 ## Outline
